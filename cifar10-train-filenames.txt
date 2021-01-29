@@ -1,0 +1,10 @@
+cifar10/train/3/house_cat_s_001233.png
+cifar10/train/0/jumbo_jet_s_001298.png
+cifar10/train/3/tabby_cat_s_000986.png
+cifar10/train/6/rana_catesbeiana_s_001078.png
+cifar10/train/7/broodmare_s_001442.png
+cifar10/train/0/twinjet_s_000045.png
+cifar10/train/7/broodmare_s_000596.png
+cifar10/train/7/female_horse_s_000890.png
+cifar10/train/0/amphibious_aircraft_s_000216.png
+cifar10/train/6/bufo_viridis_s_000456.png
